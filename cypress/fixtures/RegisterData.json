@@ -1,0 +1,48 @@
+{
+    "firstname":"user",
+    "lastname":"user",
+    "email":"user100000000@gmail.com",
+    "telephone":"7378555689",
+    "password":"password",
+    "Pconfirm":"password",
+
+
+
+
+    "N1_firstname":"user",
+
+    "N1_email":"user100000000@gmail.com",
+    "N1_telephone":"7378555689",
+    "N1_password":"password",
+    "N1_Pconfirm":"password",
+
+
+
+
+    "N2_firstname":"user",
+    "N2_lastname":"user",
+    "N2_email":"user100000000@gmail.com",
+
+    "N2_password":"password",
+    "N2_Pconfirm":"password",
+
+
+
+    
+    "N3_firstname":"user",
+    "N3_lastname":"user",
+    "N3_email":"user100000000@gmail.com",
+    "N3_telephone":"7378555689",
+    "N3_password":"password",
+    "N3_Pconfirm":"password",
+
+
+    
+
+    "N4_firstname":"user",
+    "N4_lastname":"user",
+    "N4_email":"user100000000@gmail.com",
+    "N4_telephone":"7378555689"
+
+
+}
