@@ -1,4 +1,4 @@
-# cypress_Al-Altruists_089
+# Automation_testing_ecommerce_application
 Here’s a detailed README file for your TutorialsNinja-Checkout project, based on the structure and format you provided:
 
 TutorialsNinja-Checkout
